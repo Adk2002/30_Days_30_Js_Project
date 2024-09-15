@@ -1,5 +1,5 @@
 
+# Javascript_Learnings_Project
 
-# 30_Days_30_Js_Project
-
-This my repo of 30days 30 Javascript Project. Here I will post all the js projects 
+This my repo for Javascript Projects. Here I will add all my learning about js related projects 
+using its libraries, Dependencies.... 
